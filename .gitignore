@@ -1,0 +1,24 @@
+# Large imagery & model files
+*.tif
+*.tiff
+*.keras
+*.h5
+*.pt
+*.ckpt
+*.pb
+
+# Patches and data folders
+Patches/
+patches/
+data/
+models/
+checkpoints/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
